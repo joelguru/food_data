@@ -1,0 +1,24 @@
+[
+   {
+      "marketName" : "스시벤",
+      "foodImage" : "/images/menuImage.jpg",
+      "foodHashTag" : "#인기메뉴 #일식 ",
+      "foodName" : "버터장조림밥",
+      "marketDistance" : "23분 거리",
+      "foodPrice" : "8000원",
+      "marketMessage" : "요금을 부과하지 않으면 직원들 사이에서도 악순환을 낳을 수 있다. 직원들도 고객과 마찬가지로 공짜 서비스에는 자신의 시간과 노력을 들일 만한 가치가 없다고 여길 수 있기 때문이다.",
+      "marketAddress" : "서울특별시 강남구 도산대로 123",
+      "marketIntroduction" : "  "
+   },
+   {
+      "marketName" : "얌샘",
+      "foodImage" : "/images/hayashi-rice_02.jpg",
+      "foodHashTag" : "#인기메뉴 #일식 ",
+	  "foodName" : "하이라이스 돈카츠와 김치볶음밥",
+      "marketDistance" : "21분 거리",
+      "foodPrice" : "7000원",
+      "marketMessage" : "요금을 부과하지 않으면 직원들 사이에서도 악순환을 낳을 수 있다. 직원들도 고객과 마찬가지로 공짜 서비스에는 자신의 시간과 노력을 들일 만한 가치가 없다고 여길 수 있기 때문이다.",
+      "marketAddress" : "서울특별시 강남구 서초대로 123",
+      "marketIntroduction" : "  "
+   }
+]
